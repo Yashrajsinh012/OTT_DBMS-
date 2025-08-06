@@ -1,4 +1,3 @@
-# OTT_DBMS-
 
 #  Framefluence – OTT Platform Analytics Using SQL & Tableau
 
