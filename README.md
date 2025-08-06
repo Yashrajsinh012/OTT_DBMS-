@@ -32,7 +32,7 @@ An academic database project designed to simulate a real-world OTT platform like
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |------|---------|
